@@ -1,0 +1,5 @@
+Run the code using Jupyter Notebook.
+Python Version Required - 3.6
+Required Packages - numpy, pandas, matplotlib
+Code Files - asgn1a.ipynb, asgn1b.ipynb, asgn1c.ipynb, asgn1d.ipynb
+Note - The data Input file shouldl be in the same folder as the codes with the name - kc_house_data.csv
