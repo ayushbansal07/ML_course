@@ -1,0 +1,17 @@
+a)
+sigmoid(after 50):
+In Sample Error: 0.0056066382597
+Out of Sample Error:  0.027802690583
+
+tanh (after 100):
+In Sample Error: 0.0116618075802
+Out of Sample Error:  0.0654708520179
+
+b)
+sigmoid(after 50 epochs)
+In Sample Error: 0.000224265530388
+Out of Sample Error:  0.0179372197309
+
+tanh(after 50 epochs)
+In Sample Error: 0.000224265530388
+Out of Sample Error:  0.0224215246637
